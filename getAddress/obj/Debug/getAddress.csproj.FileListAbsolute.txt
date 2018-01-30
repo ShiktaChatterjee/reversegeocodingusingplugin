@@ -1,0 +1,9 @@
+c:\users\grade\source\repos\getAddress\getAddress\bin\Debug\getAddress.dll
+c:\users\grade\source\repos\getAddress\getAddress\bin\Debug\getAddress.pdb
+c:\users\grade\source\repos\getAddress\getAddress\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\grade\source\repos\getAddress\getAddress\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\grade\source\repos\getAddress\getAddress\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+c:\users\grade\source\repos\getAddress\getAddress\bin\Debug\Microsoft.Xrm.Sdk.xml
+c:\users\grade\source\repos\getAddress\getAddress\obj\Debug\getAddress.csproj.CoreCompileInputs.cache
+c:\users\grade\source\repos\getAddress\getAddress\obj\Debug\getAddress.dll
+c:\users\grade\source\repos\getAddress\getAddress\obj\Debug\getAddress.pdb
