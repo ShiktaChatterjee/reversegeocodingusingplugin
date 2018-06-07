@@ -49,17 +49,7 @@ namespace getAddress
                             updatelocation.Attributes["new_address"] = fulladdress;
                             service.Update(updatelocation);
                             
-                            //RootObject rootObject = findAddress(Convert.ToDouble(lat), Convert.ToDouble(lon));
-                            //if (rootObject.display_name != null)
-                            //{
-                            //    Entity updatelocation = service.Retrieve(entity.LogicalName, entity.Id, new ColumnSet(false));
-                            //    updatelocation.Attributes["new_address"] = rootObject.display_name;
-                            //    service.Update(updatelocation);
-
-                            //}
-
-
-
+                           
                         }
 
                     }
